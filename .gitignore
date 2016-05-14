@@ -1,0 +1,6 @@
+﻿*.vcxproj.user
+*.VC.db
+*.VC.opendb
+
+/build/vc15/libktx/obj
+/build/vc15/libktx/bin
